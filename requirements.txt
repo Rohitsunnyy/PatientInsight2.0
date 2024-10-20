@@ -1,0 +1,6 @@
+pandas
+pytest
+apache-airflow
+dvc
+datasets
+
